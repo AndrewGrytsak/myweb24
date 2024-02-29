@@ -38,8 +38,7 @@ body{   /*this body section will add styles to the whole page*/
 .header{
     background-color: rgb(255, 255, 255);
     width: 100%;
-    height: 300px
-    ;
+    height: 300px;
 
 }
 .small{
@@ -91,7 +90,12 @@ li{
     color: purple;
  }
 
-
+.map{
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-top:250px;
+}
 
 
 
